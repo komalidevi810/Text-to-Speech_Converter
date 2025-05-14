@@ -12,8 +12,9 @@ Watch a quick demonstration of how the Text to Voice Converter works.
 
 This tool is responsive, modern, and works directly in your browser—no installation required.
 
-https://github.com/komalidevi810/Text-to-Speech_Converter/blob/main/Demo.mp4
-
+<video src="./demo.mp4" controls width="700">
+  Your browser does not support the video tag.
+</video>
 ## 🎯 Features
 
 - 🎤 Convert any text into speech using browser-supported voices.
