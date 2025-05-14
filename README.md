@@ -4,7 +4,15 @@ A simple and responsive web application that converts written text into spoken w
 
 ## 🚀 Demo
 
-![Text to Voice Converter UI](./Demo.mp4)
+Watch a quick demonstration of how the Text to Voice Converter works.
+
+✅ Enter text
+✅ Select a voice
+✅ Click to convert and hear the speech
+
+This tool is responsive, modern, and works directly in your browser—no installation required.
+
+./demo.mp4
 
 ## 🎯 Features
 
