@@ -4,7 +4,7 @@ A simple and responsive web application that converts written text into spoken w
 
 ## 🚀 Demo
 
-![Text to Voice Converter UI](./screenshot.png)
+![Text to Voice Converter UI](./Demo.mp4)
 
 ## 🎯 Features
 
